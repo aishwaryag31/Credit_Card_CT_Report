@@ -48,4 +48,4 @@ To prepare the data for analysis, I created two SQL tables: one for customer det
 - **Chip Usage Distribution**: Displays the transaction type (Chip, Online, Swipe).
 - **Job Type Revenue**: Highlights the contribution of different professions to revenue.
 
-This dashboard is a comprehensive tool for analyzing customer demographics and financial performance, providing actionable insights for better business decision-making.# Credit_Card_CT_Report
+
